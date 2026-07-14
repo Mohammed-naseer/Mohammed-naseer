@@ -1,87 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C6A2&height=220&section=header&text=Mohammed%20Naseeruddin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Data%20Analytics&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:00C6A2,100:7C3AED&height=230&section=header&text=Mohammed%20Naseeruddin&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Data%20Analytics&descAlignY=56&descSize=17"/>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:mohammednaseer22022@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Mohammed-naseer">
-  <img src="https://img.shields.io/github/followers/Mohammed-naseer?label=Followers&style=for-the-badge&color=0077B5"/>
-</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mohammednaseer22022@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Mohammed-naseer"><img src="https://img.shields.io/github/followers/Mohammed-naseer?label=Followers&style=for-the-badge&color=7C3AED"/></a>
 <img src="https://komarev.com/ghpvc/?username=Mohammed-naseer&style=for-the-badge&color=00C6A2&label=Profile+Views"/>
 
-<br/><br/>
+<br/>
+
+<p>
+<a href="#-about-me">About</a> •
+<a href="#-tech-stack">Skills</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-github-analytics">Stats</a> •
+<a href="#-lets-connect">Contact</a>
+</p>
 
 <a href="https://github.com/Mohammed-naseer">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+web+apps+%F0%9F%9A%80;B.Tech+CSE+%40+Malla+Reddy+University;Java+%7C+Python+%7C+React+%7C+SQL;Turning+ideas+into+scalable+software&font=Fira+Code&center=true&width=560&height=45&color=00C6A2&vCenter=true&size=22"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+web+apps+%F0%9F%9A%80;B.Tech+CSE+%40+Malla+Reddy+University;Java+%7C+Python+%7C+React+%7C+SQL;Turning+ideas+into+scalable+software;Always+shipping%2C+always+learning+%E2%9A%A1&font=Fira+Code&center=true&width=600&height=45&color=00C6A2&vCenter=true&size=22"/>
 </a>
 
 </div>
 
 <br/>
 
-## 🚀 About Me
+<table>
+<tr>
+<td width="65%" valign="top">
 
-- 🎓 B.Tech in Computer Science Engineering @ **Malla Reddy University**, Hyderabad *(2024 – 2028)*
-- 💻 Full-Stack Developer building real-world web applications
-- 🤖 Passionate about **AI integration**, prompt engineering, and intelligent product features
-- 📊 Exploring **Data Analytics** with Power BI, Pandas & NumPy
-- 🌱 Currently leveling up in **Spring Boot, Go, and Generative AI**
-- 🏆 3rd Prize Winner — Hackathon 2025
-- 📫 Reach me at **mohammednaseer22022@gmail.com**
+## 👋 About Me
+
+- 🎓 B.Tech Computer Science Engineering @ **Malla Reddy University**, Hyderabad *(2024 – 2028)*
+- 💻 Full-stack developer who loves shipping real, usable products — not just demos
+- 🤖 Deep into **AI integration**: prompt engineering, AI APIs, AI-powered features
+- 📊 Growing my **Data Analytics** toolkit — Power BI, Pandas, NumPy
+- 🌱 Currently leveling up: **Spring Boot, Go, Android, Generative AI**
+- 🏆 3rd Prize — Hackathon 2025 | Google Android Developer Virtual Intern
+- ⚡ Fun fact: I'd rather debug at midnight than leave a bug for tomorrow
+
+</td>
+<td width="35%" valign="top" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## 🛠 Tech Stack
 
 <div align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,go,html,css,react,tailwind,nodejs,express,spring,django,flask,mysql,mongodb,git,github,vscode,idea,firebase,vercel,postman&theme=dark&perline=11"/>
+</div>
 
-**Languages**
 <br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
 
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<div align="center">
 
-**Backend**
-<br/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-
-**Databases**
-<br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-**Data & AI**
-<br/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI_API_Integration-412991?style=flat-square&logo=openai&logoColor=white"/>
-
-**Tools & Cloud**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+| Category | Proficiency |
+|---|---|
+| **Java** | ![](https://progress-bar.xyz/85/?title=&width=250&color=ED8B00) |
+| **Python** | ![](https://progress-bar.xyz/85/?title=&width=250&color=3776AB) |
+| **JavaScript / React** | ![](https://progress-bar.xyz/80/?title=&width=250&color=61DAFB) |
+| **SQL / MongoDB** | ![](https://progress-bar.xyz/78/?title=&width=250&color=47A248) |
+| **Spring Boot / Flask** | ![](https://progress-bar.xyz/70/?title=&width=250&color=6DB33F) |
+| **Go (Learning)** | ![](https://progress-bar.xyz/35/?title=&width=250&color=00ADD8) |
 
 </div>
 
@@ -94,17 +80,23 @@
 <td width="50%" valign="top">
 
 ### 🌍 AI Travel Guide
-AI-powered trip planner that builds personalized itineraries based on budget, duration & preferences — with recommendations for stays, attractions, transport & food.
+AI-powered trip planner generating personalized itineraries by budget & duration — with stays, attractions, transport & food recommendations.
 
-`React` `Express.js` `MongoDB` `AI APIs`
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AI](https://img.shields.io/badge/-AI%20APIs-412991?style=flat-square&logo=openai&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 AI Employee Management System
-Full-stack HR platform with role-based auth, attendance & task tracking, plus AI resume analysis that matches candidates to tasks automatically.
+Full-stack HR platform — role-based auth, attendance & task tracking, plus AI resume analysis that auto-matches candidates to tasks.
 
-`React` `TypeScript` `Express.js` `MongoDB` `AI APIs`
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 </td>
 </tr>
@@ -112,21 +104,33 @@ Full-stack HR platform with role-based auth, attendance & task tracking, plus AI
 <td width="50%" valign="top">
 
 ### 📊 AI Sentiment Analysis Platform
-Classifies customer reviews as Positive, Negative, or Neutral using AI models, with an interactive dashboard for sentiment trends and feedback insights.
+Classifies customer reviews as Positive / Negative / Neutral with AI models, plus an interactive dashboard for sentiment trends.
 
-`React` `Express.js` `MongoDB` `AI APIs`
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AI](https://img.shields.io/badge/-AI%20APIs-412991?style=flat-square&logo=openai&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛒 Sports E-Commerce Platform
-Responsive storefront with auth, cart, wishlist & secure checkout, powered by AI-driven product recommendations.
+Responsive storefront with auth, cart, wishlist & secure checkout — powered by AI-driven product recommendations.
 
-`HTML` `CSS` `JavaScript` `Python` `MySQL` `AI APIs`
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AI](https://img.shields.io/badge/-AI%20APIs-412991?style=flat-square&logo=openai&logoColor=white)
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+<sub>📌 Pin your best repos on GitHub for a live card here — replace <code>REPO_NAME</code> below with real repo names to enable:</sub>
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-naseer&repo=REPO_NAME&theme=tokyonight&hide_border=true"/>
+</div>
 
 <br/>
 
@@ -176,26 +180,44 @@ Responsive storefront with auth, cart, wishlist & secure checkout, powered by AI
 
 </div>
 
+<details>
+<summary>🐍 Enable the animated contribution snake (click for setup)</summary>
+<br/>
+
+This repo can auto-generate an animated snake that eats your contribution graph. Add a GitHub Action using **Platane/snk**, then it'll render here:
+
+```
+<img src="https://raw.githubusercontent.com/Mohammed-naseer/Mohammed-naseer/output/github-contribution-grid-snake.svg"/>
+```
+
+Setup guide: `github.com/Platane/snk`
+
+</details>
+
+<br/>
+
+## 💬 Random Dev Wisdom
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
+
 <br/>
 
 ## 📫 Let's Connect
 
 <div align="center">
 
-<a href="mailto:mohammednaseer22022@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-00C6A2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<a href="mailto:mohammednaseer22022@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <br/><br/>
 
 > *"Code. Learn. Build. Repeat."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6A2,100:0077B5&height=100&section=footer"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00C6A2,100:0077B5&height=110&section=footer"/>
 
 </div>
