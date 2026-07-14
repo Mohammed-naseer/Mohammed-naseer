@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:00C6A2,100:7C3AED&height=230&section=header&text=Mohammed%20Naseeruddin&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Data%20Analytics&descAlignY=56&descSize=17"/>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohammed-naseeruddin-2b4933321/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mohammednaseer22022@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Mohammed-naseer"><img src="https://img.shields.io/github/followers/Mohammed-naseer?label=Followers&style=for-the-badge&color=7C3AED"/></a>
 <img src="https://komarev.com/ghpvc/?username=Mohammed-naseer&style=for-the-badge&color=00C6A2&label=Profile+Views"/>
