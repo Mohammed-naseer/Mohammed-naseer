@@ -229,9 +229,17 @@ Turns raw business data into SWOT analysis, market insight, and actionable growt
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Metrics Dashboard
 
 <div align="center">
+
+<!--START_SECTION:metrics-->
+<img src="./github-metrics.svg" alt="Mohammed Naseeruddin's GitHub metrics" width="100%"/>
+<!--END_SECTION:metrics-->
+
+<sub>⚡ Auto-refreshed daily via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sub>
+
+<br/><br/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammed-naseer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-naseer&layout=compact&theme=tokyonight&hide_border=true"/>
