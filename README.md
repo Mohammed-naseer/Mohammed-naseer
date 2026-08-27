@@ -1,73 +1,227 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,45:00C6A2,100:7C3AED&height=240&section=header&text=Mohammed%20Naseeruddin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Data%20Analytics&descAlignY=55&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6A2&height=280&section=header&text=Mohammed%20Naseeruddin&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Data%20Analytics&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+products+%F0%9F%9A%80;Full+Stack+Developer+%7C+AI+Engineer;Java+%7C+Python+%7C+React+%7C+SQL;Turning+ideas+into+real-world+software;Learning%2C+building%2C+shipping+%E2%9A%A1&font=Fira+Code&center=true&width=700&height=50&color=00C6A2&vCenter=true&size=21"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+products+for+the+real+world;Full+Stack+Developer+%7C+AI+Engineer;Java+%C2%B7+Python+%C2%B7+React+%C2%B7+SQL;Turning+ideas+into+shipped+software;Open+to+Software+Engineering+%26+AI+roles&font=Fira+Code&weight=600&pause=1200&color=00C6A2&center=true&width=760&height=45&vCenter=true&size=22"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mohammed-naseeruddin-2b4933321/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:mohammednaseer22022@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Mohammed-naseer">
-<img src="https://img.shields.io/github/followers/Mohammed-naseer?label=Followers&style=for-the-badge&color=7C3AED"/>
-</a>
+<a href="https://www.linkedin.com/in/mohammed-naseeruddin-2b4933321/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mohammednaseer22022@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Mohammed-naseer"><img src="https://img.shields.io/github/followers/Mohammed-naseer?label=Followers&style=for-the-badge&color=2C5364&logo=github"/></a>
 <img src="https://komarev.com/ghpvc/?username=Mohammed-naseer&style=for-the-badge&color=00C6A2&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
-<a href="#-about-me">About</a> • <a href="#-tech-stack">Skills</a> • <a href="#-featured-projects">Projects</a> • <a href="#-github-analytics">Analytics</a> • <a href="#-achievements">Achievements</a> • <a href="#-connect-with-me">Contact</a>
+<a href="#-about-me">About</a> •
+<a href="#%EF%B8%8F-tech-stack">Skills</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-github-analytics">Analytics</a> •
+<a href="#-achievements--certifications">Achievements</a> •
+<a href="#-lets-connect">Contact</a>
+
+</div>
+
+<br/>
+
+## 👋 About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="340"/>
+
+I'm a **B.Tech Computer Science Engineering student at Malla Reddy University, Hyderabad**, focused on shipping practical software that blends **full-stack engineering, applied AI, and data analytics.**
+
+I like owning the full lifecycle — **idea → architecture → build → deploy** — and I learn fastest by building real products rather than tutorials.
+
+**🚀 Currently working across:**
+- 🤖 AI-powered applications & Generative AI integrations
+- 🌐 Full-stack web development (React / Node.js / Spring Boot)
+- 📊 Data analytics, dashboards & business intelligence
+- 📱 Android development
+- ☁️ Cloud-ready, production-style deployments
+
+**🎯 2026 focus:** deepen backend & systems fundamentals, go further into AI engineering, contribute to open source, and keep shipping products people actually use.
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+**Database & Cloud**
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+**AI / Data**
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Visualization-00C6A2?style=for-the-badge"/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Featured Projects
+
+<div align="center">
+<sub>Software that solves real, end-to-end problems — not just demos.</sub>
+</div>
+<br/>
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="50%" valign="top">
 
-### Hi, I'm Mohammed Naseeruddin 👋
+### 🌍 AI Travel Guide
+AI-powered trip planner generating personalized, day-by-day itineraries from destination, budget, duration & interests.
 
-I'm a **B.Tech Computer Science Engineering student at Malla Reddy University, Hyderabad**, passionate about building practical software products that combine **full-stack development, artificial intelligence, and data analytics**.
+**Highlights:** AI itineraries · budget-aware planning · stay & food recommendations · transport suggestions
 
-I enjoy taking an idea from **concept → architecture → development → deployment** and turning it into something people can actually use.
-
-### 🚀 Currently Focused On
-
-* 🤖 AI-powered applications & Generative AI
-* 🌐 Full-stack web development
-* ☕ Java & Spring Boot
-* 🐍 Python & AI/ML
-* 📊 Data Analytics & Visualization
-* 📱 Android Development
-* ⚡ Building scalable real-world projects
-
-### 🎯 2026 Goals
-
-> Build better products.
-> Master backend engineering.
-> Go deeper into AI.
-> Contribute to meaningful open-source projects.
-> Become an exceptional software engineer.
+`React` `Node.js` `Express` `MongoDB` `AI APIs`
 
 </td>
+<td width="50%" valign="top">
 
-<td width="35%" align="center">
+### 🤖 AI Employee Management System
+Full-stack HR platform pairing traditional workforce ops with AI resume analysis and candidate-to-task matching.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="95%"/>
+**Highlights:** role-based auth · attendance & task tracking · AI resume screening · analytics dashboards
 
-<br/><br/>
+`React` `TypeScript` `Express.js` `MongoDB` `AI APIs`
 
-<img src="https://img.shields.io/badge/B.Tech-CSE-0077B5?style=for-the-badge"/>
-<br/>
-<img src="https://img.shields.io/badge/Hyderabad-India-00C6A2?style=for-the-badge"/>
-<br/>
-<img src="https://img.shields.io/badge/Building-AI%20Products-7C3AED?style=for-the-badge"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 AI Sentiment Analysis Platform
+Classifies customer reviews as Positive / Negative / Neutral and visualizes sentiment trends in real time.
+
+**Highlights:** AI sentiment classification · trend visualization · interactive analytics dashboard
+
+`React` `Express.js` `MongoDB` `AI APIs`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Sports E-Commerce Platform
+Responsive sports storefront with a full shopping flow enhanced by AI-driven product recommendations.
+
+**Highlights:** auth · cart & wishlist · checkout · search · AI recommendations
+
+`JavaScript` `Python` `MySQL` `AI APIs`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ Restaurant Operating System
+End-to-end platform unifying order, kitchen, staff, inventory and revenue management in one system.
+
+**Highlights:** order & kitchen workflow · staff & inventory management · sales analytics · customer ordering
+
+`React` `Node.js` `Express.js` `MongoDB` `AI` `Cloud`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 AI Business Strategy Platform
+Turns raw business data into SWOT analysis, market insight, and actionable growth strategy.
+
+**Highlights:** strategic recommendations · customer segmentation · risk & revenue analysis · AI-generated plans
+
+`React` `Python` `FastAPI/Flask` `AI APIs` `MongoDB`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>🔗 Explore all repositories on <a href="https://github.com/Mohammed-naseer?tab=repositories">GitHub</a></sub>
+</div>
+
+---
+
+## 💡 What I'm Building Toward
+
+<div align="center">
+
+| 🚀 Area | 🎯 Focus |
+|---|---|
+| 🤖 Artificial Intelligence | AI-powered products & Generative AI |
+| 🌐 Full Stack | Production-ready web applications |
+| ☕ Backend Engineering | Java, Spring Boot & scalable APIs |
+| 📊 Analytics | Business intelligence & dashboards |
+| 🏪 SaaS | Real-world business management systems |
+| 📱 Mobile | Android applications |
+| ☁️ Deployment | Cloud-native, scalable systems |
+
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🥇 Highlights**
+- 🥉 3rd Prize — Hackathon 2025
+- 🧑‍💻 Active hackathon participant
+- 📱 Google Android Developer Virtual Internship
+- 🚀 Multiple full-stack product builds
+- 🤖 Hands-on AI application development
+
+</td>
+<td width="50%" valign="top">
+
+**📜 Certifications**
+- 🎯 Cambridge English — C1 Advanced
+- ☕ Programming in Java — NPTEL / SWAYAM
+- ☕ Programming in Java — EduSkills
+- 📱 Google Android Development — EduSkills
+- 🏅 Hackathon Participation — GRIET
 
 </td>
 </tr>
@@ -75,270 +229,11 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 
 ---
 
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Programming
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,go&theme=dark"/>
-
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark"/>
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask&theme=dark"/>
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"/>
-
-### 🤖 AI / Data
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-
-**Pandas • NumPy • AI APIs • Prompt Engineering • Data Visualization • Machine Learning**
-
-### 🔧 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,vercel&theme=dark"/>
-
-</div>
-
----
-
-# 📊 Skill Snapshot
-
-<div align="center">
-
-|       Technology       |           Level          |
-| :--------------------: | :----------------------: |
-|         ☕ Java         | █████████████████░░░ 85% |
-|        🐍 Python       | █████████████████░░░ 85% |
-|  ⚛️ JavaScript / React | ████████████████░░░░ 80% |
-|    🗄️ SQL / MongoDB   | ███████████████░░░░░ 78% |
-| 🌱 Spring Boot / Flask | ██████████████░░░░░░ 70% |
-|          🔵 Go         | ███████░░░░░░░░░░░░░ 35% |
-
-</div>
-
-> **Note:** These percentages represent my current confidence and project experience, not formal skill assessments.
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-### Building software that solves real problems.
-
-</div>
-
----
-
-## 🌍 01. AI Travel Guide
-
-**AI-powered intelligent travel planning platform**
-
-An intelligent trip-planning application that generates personalized travel itineraries based on **destination, budget, duration, interests and preferences**.
-
-### ✨ Key Features
-
-* 🤖 AI-generated travel itineraries
-* 💰 Budget-based planning
-* 🏨 Stay recommendations
-* 📍 Attractions & activities
-* 🚗 Transportation suggestions
-* 🍴 Food recommendations
-* 📅 Day-by-day trip planning
-
-**Stack:** `React` `Node.js` `Express` `MongoDB` `AI APIs`
-
----
-
-## 🤖 02. AI Employee Management System
-
-**Intelligent HR & workforce management platform**
-
-A full-stack employee management system designed to combine traditional HR operations with AI-powered candidate analysis.
-
-### ✨ Key Features
-
-* 🔐 Role-based authentication
-* 👨‍💼 Employee management
-* 📅 Attendance tracking
-* ✅ Task management
-* 📄 AI resume analysis
-* 🧠 Candidate-to-task matching
-* 📊 Employee dashboards
-
-**Stack:** `React` `TypeScript` `Express.js` `MongoDB` `AI APIs`
-
----
-
-## 📊 03. AI Sentiment Analysis Platform
-
-**AI-powered customer feedback intelligence**
-
-A platform that analyzes customer reviews and categorizes them into **Positive, Negative and Neutral** sentiment while presenting the results through an interactive analytics dashboard.
-
-### ✨ Key Features
-
-* 🧠 AI sentiment classification
-* 📈 Sentiment trend visualization
-* 🔎 Review analysis
-* 📊 Interactive dashboard
-* 📌 Customer feedback insights
-* ⚡ Real-time analysis workflow
-
-**Stack:** `React` `Express.js` `MongoDB` `AI APIs`
-
----
-
-## 🛒 04. Sports E-Commerce Platform
-
-**AI-enhanced sports shopping experience**
-
-A responsive sports e-commerce platform featuring modern shopping functionality combined with AI-powered product recommendations.
-
-### ✨ Key Features
-
-* 🔐 Authentication
-* 🛍️ Shopping cart
-* ❤️ Wishlist
-* 💳 Checkout workflow
-* 🔎 Product search
-* 🤖 AI recommendations
-* 📱 Responsive UI
-
-**Stack:** `JavaScript` `Python` `MySQL` `AI APIs`
-
----
-
-## 🍽️ 05. Restaurant Operating System
-
-**Complete digital operating platform for restaurants**
-
-A restaurant management ecosystem designed to bring daily restaurant operations into one centralized system.
-
-### ✨ Key Features
-
-* 🧾 Order management
-* 🍔 Menu management
-* 🪑 Table management
-* 👨‍🍳 Kitchen order workflow
-* 👥 Staff management
-* 📦 Inventory management
-* 💰 Sales & revenue tracking
-* 📊 Restaurant analytics
-* 🔐 Role-based admin access
-* 📱 Customer-facing ordering
-
-### 🧠 Vision
-
-> **One platform to manage the complete restaurant operation — from customer order to kitchen to payment to analytics.**
-
-**Stack:** `React` `Node.js` `Express.js` `MongoDB` `AI` `Cloud`
-
----
-
-## 🧠 06. AI Business Strategy Platform
-
-**AI-powered business strategy & decision intelligence**
-
-An intelligent platform designed to help businesses transform raw business information into **strategic insights, recommendations and actionable plans**.
-
-### ✨ Key Features
-
-* 📊 Business performance analysis
-* 🧠 AI strategic recommendations
-* 🎯 SWOT analysis generation
-* 📈 Market opportunity analysis
-* 👥 Customer segmentation
-* 💡 Growth strategy suggestions
-* ⚠️ Risk identification
-* 💰 Revenue opportunity analysis
-* 📋 AI-generated business plans
-* 📑 Strategy reports & dashboards
-
-### 🔥 Core Idea
-
-```text
-Business Data
-      ↓
-AI Analysis Engine
-      ↓
-Market + Customer + Financial Insights
-      ↓
-Strategic Recommendations
-      ↓
-Action Plan
-      ↓
-Business Growth
-```
-
-**Stack:** `React` `Python` `FastAPI/Flask` `AI APIs` `MongoDB` `Data Analytics`
-
----
-
-# 💡 What I'm Building
-
-<div align="center">
-
-| 🚀 Area                    | 🎯 Focus                               |
-| -------------------------- | -------------------------------------- |
-| 🤖 Artificial Intelligence | AI-powered products & Generative AI    |
-| 🌐 Full Stack              | Production-ready web applications      |
-| ☕ Backend                  | Java, Spring Boot & APIs               |
-| 📊 Analytics               | Business intelligence & dashboards     |
-| 🏪 SaaS                    | Real-world business management systems |
-| 📱 Mobile                  | Android applications                   |
-| ☁️ Deployment              | Cloud & scalable applications          |
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🥇 Highlights
-
-* 🥉 **3rd Prize — Hackathon 2025**
-* 🧑‍💻 Active Hackathon Participant
-* 📱 Google Android Developer Virtual Internship
-* 🚀 Multiple Full-Stack Project Builds
-* 🤖 AI Application Development
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📜 Certifications
-
-* 🎯 Cambridge English — C1 Advanced
-* ☕ Programming in Java — NPTEL / SWAYAM
-* ☕ Programming in Java — EduSkills
-* 📱 Google Android Development — EduSkills
-* 🏅 Hackathon Participation — GRIET
-
-</td>
-</tr>
-</table>
-
----
-
-# 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammed-naseer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-naseer&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
@@ -355,11 +250,9 @@ Business Growth
 
 </div>
 
----
-
-# 🐍 Contribution Snake
-
 <div align="center">
+
+### 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/Mohammed-naseer/Mohammed-naseer/output/github-contribution-grid-snake.svg"/>
 
@@ -367,13 +260,11 @@ Business Growth
 
 ---
 
-# 🌟 My Development Philosophy
-
 <div align="center">
 
-### **Think → Build → Test → Improve → Ship 🚀**
+## 🌟 Development Philosophy
 
-<br/>
+### **Think → Build → Test → Improve → Ship 🚀**
 
 > *"Don't just learn technology. Build something with it."*
 
@@ -381,34 +272,24 @@ Business Growth
 
 ---
 
-# 📫 Connect With Me
+## 📫 Let's Connect
 
 <div align="center">
 
-<a href="mailto:mohammednaseer22022@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+I'm actively exploring **Software Engineering, Full-Stack, and AI Engineering** opportunities — feel free to reach out.
 
-<a href="https://www.linkedin.com/in/mohammed-naseeruddin-2b4933321/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Mohammed-naseer">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="mailto:mohammednaseer22022@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohammed-naseeruddin-2b4933321/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Mohammed-naseer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-**📧 [mohammednaseer22022@gmail.com](mailto:mohammednaseer22022@gmail.com)**
+**📧 mohammednaseer22022@gmail.com** &nbsp;|&nbsp; **💻 github.com/Mohammed-naseer** &nbsp;|&nbsp; **🔗 linkedin.com/in/mohammed-naseeruddin**
 
-**💻 github.com/Mohammed-naseer**
+<br/>
 
-**🔗 linkedin.com/in/mohammed-naseeruddin-2b4933321/**
+### ⭐ Thanks for stopping by — if a project catches your eye, check out the repo!
 
-<br/><br/>
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00C6A2,100:0077B5&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6A2,50:2C5364,100:0F2027&height=140&section=footer"/>
 
 </div>
